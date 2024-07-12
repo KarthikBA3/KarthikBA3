@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikBA3
-- 👀 I’m interested in Data Analytics for Business
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Python for data science and PowerBI
+- 👀 I’m a certified data analyst
+- 🌱 I’m currently looking for a new job.
+- 💞️ I’m looking to collaborate on Python for data science with anyone who is interested in exploring.
 - 📫 How to reach me karthikmk216@gmail.com
 
 <!---
